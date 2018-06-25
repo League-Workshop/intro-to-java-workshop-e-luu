@@ -1,0 +1,10 @@
+background(#839DE0);
+size(500,500);
+fill(#47BFCE);
+ellipse(150,100,100,100);
+fill(#79DED1);
+rect(100,100,100,200);
+fill(#88D5F0);
+ellipse(150,300,100,100);
+fill(#8F83E0);
+rect(200,200,100,100);
