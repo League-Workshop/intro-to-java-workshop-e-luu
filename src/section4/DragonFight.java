@@ -60,5 +60,5 @@ public class DragonFight {
 			
 			//-- Pop up a message that tells the their current health and the dragon's currently health (Bonus: Also display the amount of health that was lost for each player this round)
 			
-		}}
+		}}}
 
